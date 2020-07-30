@@ -1,0 +1,41 @@
+body {
+    align-content: center;
+    background-color: #d2d2c1;
+    background-image: url('imagens/fundo.png');
+    margin: auto;
+    width: 900px;
+}
+
+h1 {
+    font-size: 1.2em;
+    font-family: 'Verdana';
+    color: burlywood;
+    text-align: left;
+}
+
+
+#corpo {
+    background-color: #e8e8d9;
+    padding: 10px;
+    text-align: center;
+
+}
+
+#direitos {
+    font-weight: bold;
+    text-align: center;
+}
+
+#menu {
+    background-color: #F5F5F5;
+    border: 15px solid #F5F5F5;
+    text-decoration: none;
+}
+
+.imagens {
+    border: 10px solid #c3c3ae;
+}
+
+.texto {
+    text-align: justify;
+}
